@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "ABF5F433-A2D6-47A9-9911-9AB2F866F32A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Currency Exchange.xcodeproj",
+        "identifier" : "7D204CCE2D33C45F00C7B12C",
+        "name" : "Currency ExchangeTests"
+      }
+    }
+  ],
+  "version" : 1
+}
