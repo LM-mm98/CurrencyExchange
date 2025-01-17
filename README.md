@@ -20,6 +20,11 @@ Example: `https://api.exchangerate-api.com/v4/latest/USD`
 ---
 
 ## Features
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-17 at 11 42 28](https://github.com/user-attachments/assets/3208d7a4-5d2e-4f9b-9f9a-0dd19d9e1fd7)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-17 at 11 41 24](https://github.com/user-attachments/assets/5526f2f5-acc3-42bd-ad41-b7e524aab7cd)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-17 at 11 41 18](https://github.com/user-attachments/assets/511f662e-409b-4750-9d8e-8355ba9c99b7)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-17 at 11 41 12](https://github.com/user-attachments/assets/b8d245a9-c00f-49ba-bf0c-ecd4f654bd2a)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-17 at 11 41 05](https://github.com/user-attachments/assets/3b10079e-0ffd-4c99-a096-387806c7f4fa)
 
 ### 1. Source Currency List
 - Displays a list of available source currencies with flags and currency names.
